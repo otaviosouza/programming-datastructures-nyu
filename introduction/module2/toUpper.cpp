@@ -1,7 +1,7 @@
 /*******************************************
 * toUpper.cpp - Week 2                     *
-* Reads from the user a single lower case  *
-* letter and than prints it in upper case. *
+* Asks the user a single lower case letter *
+* and then outputs it in upper case.       *
 * History:                                 *
 *   v1.0.0 2021-03-20, Otávio Souza        *
 *     - first release                      *

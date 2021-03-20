@@ -1,13 +1,12 @@
-/**************************************
-* weeks_days.cpp - Week 2             *
-* Reads from the user the number of   *
-* days they traveled and print their  *
-* traveling time in full weeks and    *
-* additional days                     *
-* History:                            *
-*   v1.0.0 2021-03-20, Otávio Souza   *
-*     - first release                 *
-***************************************/
+/******************************************************
+* weeks_days.cpp - Week 2                             *
+* Asks the user the number of days their traveled     *
+* and then outprints the traveling time in full weeks *
+* and additional days.                                *
+* History:                                            *
+*   v1.0.0 2021-03-20, Otávio Souza                   *
+*     - first release                                 *
+*******************************************************/
 #include <iostream>
 
 const int DAYS_WEEK = 7;

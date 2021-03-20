@@ -16,11 +16,10 @@ _Programming Languages:_ C++
 
 ## History
 
-- 2021-03-20, Otávio Souza
-
-  - Closes Module 2, _Data Types and Expressions_.
+- 2021-03-20, Otávio Souza.
+  - Closes Module 2 _Data Types and Expressions_ and Labs.
   - README improvement, renaming folders, small code correction in _Module 1_.
 
 - 2021-03-16, Otávio Souza
-  - Closes Module 1, _Your First C++ Program_.
-  - Starts _Introduction to Programming in C++_.
+  - Closes Module 1 _Your First C++ Program_.
+  - _Introduction to Programming in C++_ start.
