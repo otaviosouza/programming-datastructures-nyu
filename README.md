@@ -11,12 +11,18 @@ Audit full NYUx MicroBachelors program.
 ## Dev Environment
 
 _Guest OS:_ Manjaro XCFE 20.1
+
 _Code Editor:_ Code - OSS
+
 _Programming Languages:_ C++
 
 ## History
 
+- 2021-mm-dd, Otávio Souza.
+  - Closes Module 3 _Branching Statements_ and Labs.
+
 - 2021-03-20, Otávio Souza.
+  - Module 3 _Branching Statements_ start.
   - Closes Module 2 _Data Types and Expressions_ and Labs.
   - README improvement, renaming folders, small code correction in _Module 1_.
 
