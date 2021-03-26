@@ -4,6 +4,8 @@
 * 24-hour format and out prints the equivalent   *
 * time in a 12-hour format.                      *
 * History:                                       *
+*   v1.1.0 2021-03-25, Otávio Souza              *
+*     - reduce if-else statements                *
 *   v1.0.0 2021-03-25, Otávio Souza              *
 *     - first release                            *
 *************************************************/
@@ -22,17 +24,24 @@ int main(void)
     std::cin >> n24hour >> temp >> n24min;
 
     n12min = n24min;
-    if (((n24hour < 12) && (n24hour >= 0)) || (n24hour == 24))
-        sPeriod = "am";
-    else
-        sPeriod = "pm";
+    if (((n24hour >= 0) && (n24hour <= 11)))
+    {
 
-    if (n24hour == 0)
-        n12hour = 12;
-    else if ((n24hour <= 12) && (n24hour > 0))
-        n12hour = n24hour;
+        sPeriod = "am";
+        if (n24hour == 0)
+            n12hour = 12;
+        else
+            n12hour = n24hour;
+    }
     else
-        n12hour = n24hour % 12;
+    {
+
+        sPeriod = "pm";
+        if (n24hour == 12)
+            n12hour = 12;
+        else
+            n12hour = n24hour - 12;
+    }
 
     std::cout << n12hour << temp << n12min << sPeriod << std::endl;
 
