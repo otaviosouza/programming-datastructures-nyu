@@ -1,5 +1,5 @@
 /**********************************************************
-* bmimetric.cpp - Week 2 Lab                              *
+* bmimetric.cpp - Module 2 Lab                            *
 * Write a program that prompts for weight in pounds and   *
 * height in inches, converts the values to metric, and    *
 * outputs the BMI with two decimal places.                *

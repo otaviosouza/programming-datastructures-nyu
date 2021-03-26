@@ -1,5 +1,5 @@
 /************************************************
-* counter.cpp - Week 2 Lab                      *
+* counter.cpp - Module 2 Lab                    *
 * Asks the user to enter a number of            *
 * quarters, dimes, nickels and pennies and      *
 * then outputs the monetary value of the coins. *
@@ -32,7 +32,7 @@ int main(void)
     nCent = (fAccount - nDollar) * 100;
 
     // outputs the monetary value
-    std::cout << "The total is " << nDollar << " and " << nCent << " cents." << std::endl;
+    std::cout << "The total is " << nDollar << " dollar and " << nCent << " cents." << std::endl;
 
     return 0;
 } // closes main(void)

@@ -20,6 +20,7 @@ _Programming Languages:_ C++
 
 - 2021-mm-dd, Otávio Souza.
   - Closes Module 3 _Branching Statements_ and Labs.
+  - Rearranging repository.
 
 - 2021-03-20, Otávio Souza.
   - Module 3 _Branching Statements_ start.

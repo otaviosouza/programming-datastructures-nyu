@@ -1,11 +1,12 @@
-/********************************************
-* ascii.cpp - Week 2                        *
-* Asks the user a single character and then *
-* outprints it's ASCII value                *
-* History:                                  *
-*   v1.0.0 2021-03-20, Otávio Souza         *
-*     - first release                       *
-*********************************************/
+/*************************************************
+* ascii.cpp - Module 2                           *
+* Asks the user a single character and then      *
+* out print it's ASCII value.                    *
+* History:                                       *
+*   v1.0.0 2021-03-20, Otávio Souza              *
+*     - first release                            *
+*************************************************/
+
 #include <iostream>
 
 int main(void)

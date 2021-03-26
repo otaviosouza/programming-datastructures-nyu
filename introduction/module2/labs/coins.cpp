@@ -1,5 +1,5 @@
 /**********************************************************
-* coins.cpp - Week 2 Lab                                  *
+* coins.cpp - Module 2 Lab                                *
 * Asks the user to enter an amount of money in the format *
 * of dollars and remaining cents.                         *
 * The program should calculate and the print the minimum  *

@@ -1,11 +1,12 @@
-/*********************************************
-* circle_area.cpp - Week 2                   *
-* Reads from the user a radius of a circle   *
-* and then outputs the area of this circle   *
-* History:                                   *
-*   v1.0.0 2021-03-20, Otávio Souza          *
-*     - first release                        *
-**********************************************/
+/*************************************************
+* circle_area.cpp - Module 2                     *
+* Reads from the user a radius of a circle and   *
+* then out print the area of this circle.        *
+* History:                                       *
+*   v1.0.0 2021-03-20, Otávio Souza              *
+*     - first release                            *
+*************************************************/
+
 #include <iostream>
 #include <cmath>
 

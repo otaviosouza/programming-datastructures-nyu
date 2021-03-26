@@ -1,11 +1,12 @@
-/*******************************************
-* toUpper.cpp - Week 2                     *
-* Asks the user a single lower case letter *
-* and then outputs it in upper case.       *
-* History:                                 *
-*   v1.0.0 2021-03-20, Otávio Souza        *
-*     - first release                      *
-********************************************/
+/*************************************************
+* toUpper.cpp - Module 2                         *
+* Asks the user a single lower case letter and   *
+* then out prints it in upper case.              *
+* History:                                       *
+*   v1.0.0 2021-03-20, Otávio Souza              *
+*     - first release                            *
+*************************************************/
+
 #include <iostream>
 
 int main(void)

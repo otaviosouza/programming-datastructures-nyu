@@ -1,11 +1,12 @@
-/**************************************
-* sum.cpp - Week 1                    *
-* It reads two integers from the user *
-* and prints their sum                *
-* History:                            *
-*   v1.0.0 2021-03-16, Otávio Souza   *
-*     - first issue                   *
-***************************************/
+/*************************************************
+* sum.cpp - Module 1                             *
+* Reads from the user two integers and           *
+* out prints their sum.                          *
+* History:                                       *
+*   v1.0.0 2021-03-16, Otávio Souza              *
+*     - first release                            *
+*************************************************/
+
 #include <iostream>
 using namespace std;
 
