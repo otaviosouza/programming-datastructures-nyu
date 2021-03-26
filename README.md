@@ -18,7 +18,7 @@ _Programming Languages:_ C++
 
 ## History
 
-- 2021-mm-dd, Otávio Souza.
+- 2021-03-26, Otávio Souza.
   - Closes Module 3 _Branching Statements_ and Labs.
   - Rearranging repository.
 
