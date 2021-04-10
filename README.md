@@ -20,7 +20,7 @@ _Programming Languages:_ C++
 
 - 2021-mm-dd, Otávio Souza.
   - Closes Module 4 and Labs.
-  
+  - Adopting Google C++ Style Guide.
 
 - 2021-03-26, Otávio Souza.
   - Closes Module 3 _Branching Statements_ and Labs.
