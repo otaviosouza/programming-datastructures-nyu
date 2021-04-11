@@ -18,8 +18,9 @@ _Programming Languages:_ C++
 
 ## History
 
-- 2021-mm-dd, Otávio Souza.
-  - Closes Module 4 and Labs.
+- 2021-04-10, Otávio Souza.
+  - Finishes NYUx _Introduction to Programming in C++_.
+  - Closes Module 4 _Iterative Statements_ and Labs.
   - Adopting Google C++ Style Guide.
 
 - 2021-03-26, Otávio Souza.
