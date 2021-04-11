@@ -3,6 +3,8 @@
 * a program for determining if a year is a       *
 * leap year in the Gregorian calendar system.    *
 * History:                                       *
+*   v1.0.1 2021-04-11, Otávio Souza              *
+*     - shorten if statements                    *
 *   v1.0.0 2021-03-26, Otávio Souza              *
 *     - first release                            *
 *************************************************/
@@ -26,11 +28,7 @@ int main(int argc, char *argv[])
 
     (nYear > nCurrYear) ? sVerb = "will be" : sVerb = "was";
 
-    if ((nYear % 4 == 0) && (nYear % 100 == 0))
-    {
-        (nYear % 400 == 0) ? std::cout << nYear << " " << sVerb << " a leap year" << std::endl : std::cout << nYear << " " << sVerb << " not a leap year" << std::endl;
-    }
-    else if ((nYear % 4 == 0) && (nYear % 100 != 0))
+    if (((nYear % 4 == 0) && (nYear % 100 != 0)) || ((nYear % 4 == 0) && (nYear % 100 == 0) && (nYear % 400 == 0)))
     {
         std::cout << nYear << " " << sVerb << " a leap year" << std::endl;
     }
