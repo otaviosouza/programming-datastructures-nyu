@@ -12,5 +12,29 @@
 
 int main(void)
 {
+    int n, k, n_fact = 1, k_fact = 1;
+    int n_minus_k_fact = 1, k_comb;
+    std::cout << "Please enter n and k (k <= n): ";
+    std::cin >> n >> k;
 
+    for (int i = 1; i <= n; i++)
+    {
+        n_fact *= i;
+    }
+
+    for (int i = 1; i <= k; i++)
+    {
+        k_fact *= i;
+    }
+
+    for (int i = 1; i <= (n - k); i++)
+    {
+        n_minus_k_fact *= i;
+    }
+
+    k_comb = n_fact / (k_fact * n_minus_k_fact);
+
+    std::cout << n << " choose " << k << " is " << k_comb << std::endl;
+
+    return 0;
 } // closes main(void)
