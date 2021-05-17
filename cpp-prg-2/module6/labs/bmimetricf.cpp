@@ -1,5 +1,5 @@
 /*************************************************************
-* bmimetricf.cpp - Module 5 Labs                             *
+* bmimetricf.cpp - Module 6 Labs                             *
 * Write a function that takes two parameters, weight and     *
 * the height and calculates the BMI with two decimal places. *
 * The name of the function should be bmimetricf.             *
