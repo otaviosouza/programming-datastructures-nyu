@@ -18,6 +18,9 @@ _Programming Languages:_ C++
 
 ## History
 
+- 2021-06-04, Otávio Souza.
+  - Closes Modules 6 and 7.
+
 - 2021-04-11, Otávio Souza.
   - Closes Module 5 _Functions_ and Labs.
   - Starting CPP.PRG.2 _Advanced Programming in C++_.
