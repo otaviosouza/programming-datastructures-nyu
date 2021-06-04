@@ -1,5 +1,5 @@
 /*************************************************
-* 01_k-combinations.cpp - Module 5               *
+* 01_k-combinations.cpp - Module 6               *
 * Write a program that reads from the user       *
 * two positive integers n, k (n >= k), and       *
 * prints the value of n choose k.                *

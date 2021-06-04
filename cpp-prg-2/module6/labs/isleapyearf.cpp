@@ -1,5 +1,5 @@
 /*************************************************************
-* isleapyearf.cpp - Module 5 Labs                            *
+* isleapyearf.cpp - Module 6 Labs                            *
 * Write a function that takes in a year as input and returns *
 * True if the year is a leap year, return False otherwise.   *
 * The name of the function should be isleapyear and the      *

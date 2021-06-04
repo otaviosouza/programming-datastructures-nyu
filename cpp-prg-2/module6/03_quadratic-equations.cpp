@@ -1,5 +1,5 @@
 /*************************************************************
-* 03_quadratic-equations.cpp - Module 5                      *
+* 03_quadratic-equations.cpp - Module 6                      *
 * Write a program that reads 3 real numbers, representing    *
 * coefficients of a quadratic equation, and prints the       *
 * solutions of the equation, if there any, or an appropriate *

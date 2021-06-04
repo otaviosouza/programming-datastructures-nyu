@@ -1,5 +1,5 @@
 /***************************************************
-* 02-2_analyze-digits.cpp - Module 5               *
+* 02-2_analyze-digits.cpp - Module 6               *
 * Write a program that reads a positive            *
 * integer num, and prints the number of digits     *
 * in num and their sum.                            *
