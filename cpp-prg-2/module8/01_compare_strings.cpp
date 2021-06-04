@@ -1,5 +1,7 @@
 /*************************************************
 * 01_compare_strings.cpp - Module 8              *
+* Write a program that reads three words and     *
+* prints the smallest of the three.              *
 *                                                *
 * History:                                       *
 *   v1.0.0 2021-06-04, Otávio Souza              *
