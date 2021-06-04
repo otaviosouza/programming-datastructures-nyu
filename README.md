@@ -19,6 +19,8 @@ _Programming Languages:_ C++
 ## History
 
 - 2021-06-04, Otávio Souza.
+  - Finishes CPP.PRG.2 _Advanced Programming in C++_.
+  - Closes Module 8 _Strings_ and Labs.
   - Closes Modules 6 and 7.
 
 - 2021-04-11, Otávio Souza.
